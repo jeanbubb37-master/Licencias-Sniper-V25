@@ -1,13 +1,11 @@
 {
 
-"31741830": {
-
-"vence": "2026-12-31",
-
-"tipo": "DUEÑO",
-
-"status": "Activo"
-
-}
+{
+  "SNIPER-JEAN-001": {
+    "cuenta_mt5": "31741830",
+    "vence": "2026-12-31",
+    "status": "Activo",
+    "tipo": "DUEÑO"
+  }
 
 }
