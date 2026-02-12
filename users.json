@@ -6,8 +6,9 @@
     "tipo": "DUEÑO"
   }
 }
+
 {
-  "SNIPER-JEAN-002": {
+  "SNIPER-BOT-002": {
     "cuenta_mt5": "61028255",
     "vence": "2026-12-31",
     "status": "Activo",
