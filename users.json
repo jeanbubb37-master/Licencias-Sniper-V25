@@ -1,11 +1,16 @@
 {
-  "users": [
-    {
-      "id": "31741830",
-      "name": "Usuario Principal",
-      "key": "KASQ2233",
-      "status": "active",
-      "expiration": "2026-12-31"
+    "SNIPER-V25-PRO-001": {
+        "cuenta_mt5": "61028255",
+        "usuario": "Admin_Principal",
+        "status": "active",
+        "vence": "2027-01-01",
+        "tipo": "PRO"
+    },
+    "KASQ2233": {
+        "cuenta_mt5": "31741830",
+        "usuario": "Usuario_Prueba",
+        "status": "active",
+        "vence": "2026-06-01",
+        "tipo": "DEMO"
     }
-  ]
 }
