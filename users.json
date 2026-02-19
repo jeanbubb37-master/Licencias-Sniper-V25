@@ -1,14 +1,11 @@
 {
-    "150783": {
-    "cuenta_mt5": "31741830",
-    "vence": "2026-12-31",
-    "status": "Activo",
-    "tipo": "DUEÑO"
-  },
-    "JJKS0001": {
-    "cuenta_mt5": "40922358",
-    "vence": "2026-12-31",
-    "status": "Activo",
-    "tipo": "TIO TRADER"
-  }
+  "users": [
+    {
+      "id": "31741830",
+      "name": "Usuario Principal",
+      "key": "150783",
+      "status": "active",
+      "expiration": "2026-12-31"
+    }
+  ]
 }
