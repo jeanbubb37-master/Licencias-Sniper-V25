@@ -1,17 +1,14 @@
 [
   {
-    "user": "Jean_Personal",
+    "user": "JEAN MASTER",
     "account": 61028255,
-    "serial": "SNIPER-V25-FREE-2024"
+    "serial": "SNIPER-V25-MASTER",
+    "vencimiento": "2026-12-31"
   },
   {
-    "user": "Jean Demo",
+    "user": "CLIENTE VIP",
     "account": 31741830,
-    "serial": "SNIPER-V25-PRO-9982"
-  },
-  {
-    "user": "Nueva_Cuenta",
-    "account": 12345678,
-    "serial": "SNIPER-V25-GOLD-7721"
+    "serial": "SNIPER-PRO-001",
+    "vencimiento": "2025-06-15"
   }
 ]
