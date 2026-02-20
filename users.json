@@ -1,16 +1,17 @@
-{
-    "SNIPER-V25-PRO-001": {
-        "cuenta_mt5": "61028255",
-        "usuario": "Admin_Principal",
-        "status": "active",
-        "vence": "2027-01-01",
-        "tipo": "PRO"
-    },
-    "KASQ2233": {
-        "cuenta_mt5": "31741830",
-        "usuario": "Usuario_Prueba",
-        "status": "active",
-        "vence": "2026-06-01",
-        "tipo": "DEMO"
-    }
-}
+[
+  {
+    "user": "Jean_Personal",
+    "account": 61028255,
+    "serial": "SNIPER-V25-FREE-2024"
+  },
+  {
+    "user": "Jean Demo",
+    "account": 31741830,
+    "serial": "SNIPER-V25-PRO-9982"
+  },
+  {
+    "user": "Nueva_Cuenta",
+    "account": 12345678,
+    "serial": "SNIPER-V25-GOLD-7721"
+  }
+]
