@@ -2,12 +2,18 @@
   {
     "user": "HERMANO MICHAEL",
     "account": 32089945,
-    "serial": "KASQ22944744",
+    "serial": "KASQ229447",
     "vencimiento": "2026-12-31"
   },
   {
     "user": "CLIENTE VIP",
     "account": 31741830,
+    "serial": "SNIPER-PRO-001",
+    "vencimiento": "2025-06-15"
+  },
+  {
+    "user": "CLIENTE VIP",
+    "account": ,
     "serial": "SNIPER-PRO-001",
     "vencimiento": "2025-06-15"
   }
